@@ -1,0 +1,16 @@
+langchain==0.1.6
+langchain-community==0.0.20
+langchain-experimental==0.0.50
+langchain-openai
+langchain_openai
+SQLAlchemy
+sqlalchemy
+google-generativeai
+langchain-google-genai==0.0.7
+sentence-transformers
+chromadb
+flask
+flask_cors 
+psycopg2
+gunicorn
+Gunicorn
